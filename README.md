@@ -1,7 +1,6 @@
-RNA-seq Analysis of 5 Strains of mouse myometrium.
+**This repository is for RNA-seq analysis of 5 strains of mouse myometrium datasets.**
 
-. Pipeline:
-This RNA-seq workflow consists of these stages:
+The RNA-seq workflow consists of these stages:
 
   . QC Filtering
   . Processing
@@ -9,4 +8,7 @@ This RNA-seq workflow consists of these stages:
   . Differential Expresion analysis
   . Data Visualization
 
-  Output: Volcano plot and heatmaps for differentially expressed genes
+Output: Volcano plot and heatmaps for differentially expressed genes
+
+This repository is for RNA-seq analysis of 5 strains of mouse myometrium datasets.
+
