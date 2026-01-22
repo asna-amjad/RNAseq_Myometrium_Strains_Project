@@ -1,11 +1,4 @@
-5 Strains of mouse myometrium was collected.
-
-Experimental Conditions: 
-1. Vehicle (EtOH)
-2. Estradiol 100 nM 2 hours
-3. Estradiol 100 nM 6 hours
-
-Cells were collected and RNA was isolated.
+RNA-seq Analysis of 5 Strains of mouse myometrium.
 
 . Pipeline:
 This RNA-seq workflow consists of these stages:
@@ -15,3 +8,5 @@ This RNA-seq workflow consists of these stages:
   . Alignment
   . Differential Expresion analysis
   . Data Visualization
+
+  Output: Volcano plot and heatmaps for differentially expressed genes
