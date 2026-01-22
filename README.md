@@ -10,8 +10,8 @@ Cells were collected and RNA was isolated.
 . Pipeline:
 This RNA-seq workflow consists of these stages:
 
-. QC Filtering
-. Processing
-. Alignment
-. Differential Expresion analysis
-. Data Visualization
+  . QC Filtering
+  . Processing
+  . Alignment
+  . Differential Expresion analysis
+  . Data Visualization
